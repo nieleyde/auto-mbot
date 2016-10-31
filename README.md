@@ -1,3 +1,4 @@
 # auto-mbot
 Autonomous mbot using ultrasonic sensor mounted on servo
-![atr](scratch.png "Logo Title Text 1")
+![Scratch Screenshot](scratch.png "Scratch Screenshot")
+![mBot](mbot.png "mBot")
